@@ -25,7 +25,8 @@ We care about project velocity, community engagement, and founders who understan
 We're actively investing from Fund I.
 
 [**UMA**](https://uma.bot/) - Intelligent robots that enhance quality of life for everyone
-[**Macrodate Labs**](https://macrodata.co/) - Training-data infrastructure for physical AI
+
+[**Macrodata Labs**](https://macrodata.co/) - Training-data infrastructure for physical AI
 
 ## Get in touch
 Building something? Check our [website](https://commit.fund/) and/or [contact us](mailto:builders@commit.fund)
